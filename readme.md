@@ -10,3 +10,7 @@ version 0.01
 **todo** -> list all todos  
 **todo -d 1** -> delete todo by id  
 
+## Windows
+  
+Git bash -> set .bashrc -> alias todo='python /c/Script/todo.py'
+Powershell -> set path system variable
