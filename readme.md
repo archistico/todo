@@ -13,4 +13,5 @@ version 0.01
 ## Windows
   
 Git bash -> set .bashrc -> alias todo='python /c/Script/todo.py'  
+                           exec bash  
 Powershell -> set path system variable  
