@@ -1,1 +1,16 @@
-{"title": "Example", "description": "Descr", "todos": [{"id": 0, "todo": "First", "priority": 0}]}
+{
+    "description": "Descr",
+    "title": "Example",
+    "todos": [
+        {
+            "id": 0,
+            "priority": 0,
+            "todo": "First"
+        },
+        {
+            "id": 1,
+            "priority": 0,
+            "todo": "Second"
+        }
+    ]
+}
